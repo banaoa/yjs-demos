@@ -39,5 +39,8 @@
   "devDependencies": {
     "standard": "^16.0.3",
     "webpack-dev-server": "^4.6.0"
+  },
+  "dependencies": {
+    "@manuscripts/prosemirror-recreate-steps": "^0.1.4"
   }
 }
